@@ -3,13 +3,13 @@ repository: gelsleichter/resume-yuri
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris zzzzzzz
+name: Brett Harris 
 title: Senior Network System Administrator
 email: brett.h@email.co.uk
 website: www.github.com/sproogen/resume-theme
 
 # Social links
-twitter_username: facespics
+# twitter_username: facespics
 github_username:  sproogen
 # dribbble_username: jekyll
 # facebook_username: jekyll
